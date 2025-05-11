@@ -1,1 +1,1 @@
-# -ng-ph-s-c-v-i-m-ngu-n-m-Wazuh
+#Ứng phó sự cố với Wazuh
